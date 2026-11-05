@@ -1,2 +1,2 @@
 # Cybersecurity-Int.-B084J
-Installation and Basics elated TO Cybersecurity
+Installation and Basics related TO Cybersecurity
